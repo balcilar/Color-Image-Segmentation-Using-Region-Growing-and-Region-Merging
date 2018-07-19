@@ -1,5 +1,6 @@
 function Stat=findStatistic(Region,image)
-
+%% Written by Muhammet Balcilar, France
+% all rights reverved
 n=length(unique(Region(:)));
 
 R=image(:,:,1);
