@@ -4,6 +4,14 @@ This project is reimplementation of research on color image segmentataion using 
 
 ![Sample image](Outputs/result.jpg?raw=true "Title")
 
+To run provided demo, please run Demo script as follows;
+
+```
+> Demo
+
+```
+
+
 
 
 ## Reference
