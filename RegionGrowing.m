@@ -1,4 +1,9 @@
 function [Region1 Region2 Region3 Region4]=RegionGrowing(image_org)
+
+%% Written by Muhammet Balcilar, France
+% all rights reverved
+
+
 [m,n,d] = size(image_org);
 
 
