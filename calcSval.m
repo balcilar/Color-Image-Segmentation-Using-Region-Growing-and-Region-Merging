@@ -1,4 +1,9 @@
 function Sval=calcSval(Stat,Con)
+
+%% Written by Muhammet Balcilar, France
+% all rights reverved
+
+
 Sval=zeros(size(Con,1),1);
 
 for itr=1:size(Con,1)
