@@ -1,4 +1,8 @@
 function [N Con]=findNeighbour(Region,mnadj)
+
+%% Written by Muhammet Balcilar, France
+% all rights reverved
+
 n=length(unique(Region(:)));
 N=zeros(n,n);
 Con=[];
