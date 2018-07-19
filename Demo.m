@@ -1,3 +1,6 @@
+%% Written by Muhammet Balcilar, France
+% all rights reverved
+
 clear all
 clc
 addpath('docde')
