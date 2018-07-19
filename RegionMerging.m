@@ -1,27 +1,6 @@
 function RegionResult=RegionMerging(image,Region,mnadj,RMThresh)
-
-
-% clear all
-% clc
-% 
-% %% load input RGB image and initial segmentations
-% % in this mt file there are image and Region variable
-% load flowerdata
-% 
-% %% define method parameters
-% % method has two parameters minimum adjacent pixel which means connected
-% % regions has at least this number of pixel connected
-% mnadj=10;
-% % threshold value to make decision to merge two region or nor
-% RMThresh=3.5;
-
-
-% %% plot initial segmentation
-% figure; imshow(uint8(image));
-% hold on;
-% DrawLine(Region);
-% hold off;
-% title('Initial segmentation');
+%% Written by Muhammet Balcilar, France
+% all rights reverved
 
 
 
